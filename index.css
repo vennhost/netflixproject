@@ -43,3 +43,8 @@ footer a {
 main #dropdownMenuLink {
     border-radius: 0%;
 }
+
+footer #footerBtn {
+    background: transparent;
+    border-radius: 0%;
+}
