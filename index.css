@@ -40,3 +40,6 @@ footer a {
 .navbar-dark a {
     color: white;
 }
+main #dropdownMenuLink {
+    border-radius: 0%;
+}
